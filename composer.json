@@ -1,0 +1,20 @@
+{
+    "name": "ironflow/vibe",
+    "description": "\"Gestion des médias, uploads et autres fonctionnalités.\"",
+    "type": "library",
+    "require": {
+        "intervention/image": "^3.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vibe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aure",
+            "email": "147180124+AureDulvresse@users.noreply.github.com"
+        }
+    ]
+}
